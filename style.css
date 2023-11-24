@@ -1,0 +1,63 @@
+body {
+    font-family: sans-serif;
+    font-size: 20px;
+}
+header {
+    background-color: aquamarine;
+    border: 2px solid blue;
+    border-radius: 30px;
+    font-size: 20px;
+}
+.logo {
+    background-color: aquamarine;
+    border-radius: 30px;
+    font-size: 20px;
+}
+h1 {
+    color: rgb(0, 0, 0);
+    font-size: 20px;
+}
+footer p {
+    background-color: lightskyblue;
+    border: white;
+    border-radius: 30px;
+    font-size: 20px;
+}
+
+nav a {
+    color: white;
+    background-color: navy;
+    border-radius: 5px;
+    text-decoration: none;
+    font-size: 20px;
+    padding-left: 10px;
+    padding-right: 10px;
+    margin:20px;
+    font-family: sans-serif;
+}
+.a {
+    border: 3px solid navy;
+    border-radius: 20px;
+    padding-left: 10px;
+    padding-right: 500px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-size: 20px;
+}
+main h2 {
+    color: blue; 
+}
+.z {
+    border: 2px solid lightblue;
+    border-radius: 20px;
+}
+.me {
+    text-decoration: none;
+    border: 3px solid navy;
+    padding: 8px;
+}
+.ppf {
+        text-decoration: none;
+        border: 3px solid navy;
+        padding: 8px;
+}
